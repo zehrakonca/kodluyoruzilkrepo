@@ -12,7 +12,7 @@ https://github.com/zehrakonca/kodluyoruzilkrepo.git
 
 #Usage
 Proje klonlandı ve Visual Studio Code'da açıldı. 
-![image](https://ibb.co/s3qYJKW)
+link(https://ibb.co/s3qYJKW)
 
 Linux için:
 ```linux

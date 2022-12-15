@@ -10,7 +10,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 https://github.com/zehrakonca/kodluyoruzilkrepo.git
 ```
 
-#Usage
+# Usage
 Proje klonlandı ve Visual Studio Code'da açıldı. 
 [link](https://ibb.co/s3qYJKW)
 
@@ -20,8 +20,8 @@ cd kodluyoruzilkrepo
 code .
 ```
 
-#Contributing
+# Contributing
 Pull requestler kabul edilir. Büyük değişliklikler için lütfen neyi değiştirmek istediğinizi tartışmak için konu açınız. 
 
-#Licence 
+# Licence 
 [MIT](https://choosealicense.com/licenses/mit/)
